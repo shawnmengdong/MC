@@ -1,0 +1,204 @@
+Working directory:
+/home/vbvg2008/MC
+
+mc_p
+Input size 1000 test:1
+ The log10 of determinant is :    743.12206301501828     
+           1 Processors, Total Time used:   0.202000007      seconds
+           1 Processors, Total Communication Time used:    0.00000000      seconds
+           1 Processors, Data Distribution Time used:    3.00000003E-03  seconds
+Input size 1000 test:2
+ The log10 of determinant is :    743.12206301501828     
+           1 Processors, Total Time used:   0.202000007      seconds
+           1 Processors, Total Communication Time used:    0.00000000      seconds
+           1 Processors, Data Distribution Time used:    4.00000019E-03  seconds
+Input size 1000 test:3
+ The log10 of determinant is :    743.12206301501828     
+           1 Processors, Total Time used:   0.202000007      seconds
+           1 Processors, Total Communication Time used:    0.00000000      seconds
+           1 Processors, Data Distribution Time used:    3.00000003E-03  seconds
+Input size 1000 test:4
+ The log10 of determinant is :    743.12206301501828     
+           1 Processors, Total Time used:   0.202000007      seconds
+           1 Processors, Total Communication Time used:    1.00000005E-03  seconds
+           1 Processors, Data Distribution Time used:    3.00000003E-03  seconds
+Input size 1000 test:5
+ The log10 of determinant is :    743.12206301501828     
+           1 Processors, Total Time used:   0.202000007      seconds
+           1 Processors, Total Communication Time used:    0.00000000      seconds
+           1 Processors, Data Distribution Time used:    3.00000003E-03  seconds
+Input size 2000 test:1
+ The log10 of determinant is :    1786.3846315317655     
+           1 Processors, Total Time used:    1.87000000      seconds
+           1 Processors, Total Communication Time used:    4.99999989E-03  seconds
+           1 Processors, Data Distribution Time used:    1.49999997E-02  seconds
+Input size 2000 test:2
+ The log10 of determinant is :    1786.3846315317655     
+           1 Processors, Total Time used:    1.86899996      seconds
+           1 Processors, Total Communication Time used:    0.00000000      seconds
+           1 Processors, Data Distribution Time used:    1.40000004E-02  seconds
+Input size 2000 test:3
+ The log10 of determinant is :    1786.3846315317655     
+           1 Processors, Total Time used:    1.87000000      seconds
+           1 Processors, Total Communication Time used:    1.00000005E-03  seconds
+           1 Processors, Data Distribution Time used:    1.40000004E-02  seconds
+Input size 2000 test:4
+ The log10 of determinant is :    1786.3846315317655     
+           1 Processors, Total Time used:    1.86800003      seconds
+           1 Processors, Total Communication Time used:    0.00000000      seconds
+           1 Processors, Data Distribution Time used:    1.49999997E-02  seconds
+Input size 2000 test:5
+ The log10 of determinant is :    1786.3846315317655     
+           1 Processors, Total Time used:    1.87100005      seconds
+           1 Processors, Total Communication Time used:    1.00000005E-03  seconds
+           1 Processors, Data Distribution Time used:    1.49999997E-02  seconds
+Input size 3000 test:1
+ The log10 of determinant is :    2945.7806338694527     
+           1 Processors, Total Time used:    8.05099964      seconds
+           1 Processors, Total Communication Time used:    3.00000003E-03  seconds
+           1 Processors, Data Distribution Time used:    3.20000015E-02  seconds
+Input size 3000 test:2
+ The log10 of determinant is :    2945.7806338694527     
+           1 Processors, Total Time used:    8.05099964      seconds
+           1 Processors, Total Communication Time used:    2.00000009E-03  seconds
+           1 Processors, Data Distribution Time used:    3.20000015E-02  seconds
+Input size 3000 test:3
+ The log10 of determinant is :    2945.7806338694527     
+           1 Processors, Total Time used:    8.05200005      seconds
+           1 Processors, Total Communication Time used:    0.00000000      seconds
+           1 Processors, Data Distribution Time used:    3.20000015E-02  seconds
+Input size 3000 test:4
+ The log10 of determinant is :    2945.7806338694527     
+           1 Processors, Total Time used:    8.05700016      seconds
+           1 Processors, Total Communication Time used:    0.00000000      seconds
+           1 Processors, Data Distribution Time used:    3.20000015E-02  seconds
+Input size 3000 test:5
+ The log10 of determinant is :    2945.7806338694527     
+           1 Processors, Total Time used:    8.06400013      seconds
+           1 Processors, Total Communication Time used:    1.00000005E-03  seconds
+           1 Processors, Data Distribution Time used:    3.20000015E-02  seconds
+Input size 4000 test:1
+ The log10 of determinant is :    4176.3350198553890     
+           1 Processors, Total Time used:    20.0499992      seconds
+           1 Processors, Total Communication Time used:    3.00000003E-03  seconds
+           1 Processors, Data Distribution Time used:    5.70000000E-02  seconds
+Input size 4000 test:2
+ The log10 of determinant is :    4176.3350198553890     
+           1 Processors, Total Time used:    20.0230007      seconds
+           1 Processors, Total Communication Time used:    4.00000019E-03  seconds
+           1 Processors, Data Distribution Time used:    5.70000000E-02  seconds
+Input size 4000 test:3
+ The log10 of determinant is :    4176.3350198553890     
+           1 Processors, Total Time used:    20.0279999      seconds
+           1 Processors, Total Communication Time used:    1.40000004E-02  seconds
+           1 Processors, Data Distribution Time used:    5.70000000E-02  seconds
+Input size 4000 test:4
+ The log10 of determinant is :    4176.3350198553890     
+           1 Processors, Total Time used:    20.0319996      seconds
+           1 Processors, Total Communication Time used:    6.00000005E-03  seconds
+           1 Processors, Data Distribution Time used:    5.70000000E-02  seconds
+Input size 4000 test:5
+ The log10 of determinant is :    4176.3350198553890     
+           1 Processors, Total Time used:    20.0529995      seconds
+           1 Processors, Total Communication Time used:    7.00000022E-03  seconds
+           1 Processors, Data Distribution Time used:    5.60000017E-02  seconds
+Input size 5000 test:1
+ The log10 of determinant is :    5464.1181104868829     
+           1 Processors, Total Time used:    39.6739998      seconds
+           1 Processors, Total Communication Time used:    6.00000005E-03  seconds
+           1 Processors, Data Distribution Time used:    8.79999995E-02  seconds
+Input size 5000 test:2
+ The log10 of determinant is :    5464.1181104868829     
+           1 Processors, Total Time used:    39.6310005      seconds
+           1 Processors, Total Communication Time used:    8.00000038E-03  seconds
+           1 Processors, Data Distribution Time used:    8.79999995E-02  seconds
+Input size 5000 test:3
+ The log10 of determinant is :    5464.1181104868829     
+           1 Processors, Total Time used:    39.5859985      seconds
+           1 Processors, Total Communication Time used:    2.00000009E-03  seconds
+           1 Processors, Data Distribution Time used:    8.79999995E-02  seconds
+Input size 5000 test:4
+ The log10 of determinant is :    5464.1181104868829     
+           1 Processors, Total Time used:    39.6650009      seconds
+           1 Processors, Total Communication Time used:    4.00000019E-03  seconds
+           1 Processors, Data Distribution Time used:    8.79999995E-02  seconds
+Input size 5000 test:5
+ The log10 of determinant is :    5464.1181104868829     
+           1 Processors, Total Time used:    39.5820007      seconds
+           1 Processors, Total Communication Time used:    4.00000019E-03  seconds
+           1 Processors, Data Distribution Time used:    8.90000015E-02  seconds
+Input size 6000 test:1
+ The log10 of determinant is :    6794.7536644899219     
+           1 Processors, Total Time used:    68.6019974      seconds
+           1 Processors, Total Communication Time used:    4.99999989E-03  seconds
+           1 Processors, Data Distribution Time used:   0.126000002      seconds
+Input size 6000 test:2
+ The log10 of determinant is :    6794.7536644899219     
+           1 Processors, Total Time used:    68.7799988      seconds
+           1 Processors, Total Communication Time used:    7.00000022E-03  seconds
+           1 Processors, Data Distribution Time used:   0.126000002      seconds
+Input size 6000 test:3
+ The log10 of determinant is :    6794.7536644899219     
+           1 Processors, Total Time used:    68.6539993      seconds
+           1 Processors, Total Communication Time used:    4.99999989E-03  seconds
+           1 Processors, Data Distribution Time used:   0.127000004      seconds
+Input size 6000 test:4
+ The log10 of determinant is :    6794.7536644899219     
+           1 Processors, Total Time used:    68.6070023      seconds
+           1 Processors, Total Communication Time used:    4.99999989E-03  seconds
+           1 Processors, Data Distribution Time used:   0.127000004      seconds
+Input size 6000 test:5
+ The log10 of determinant is :    6794.7536644899219     
+           1 Processors, Total Time used:    68.6729965      seconds
+           1 Processors, Total Communication Time used:    8.00000038E-03  seconds
+           1 Processors, Data Distribution Time used:   0.126000002      seconds
+Input size 7000 test:1
+ The log10 of determinant is :    8159.7807541944139     
+           1 Processors, Total Time used:    109.203003      seconds
+           1 Processors, Total Communication Time used:    7.00000022E-03  seconds
+           1 Processors, Data Distribution Time used:   0.172000006      seconds
+Input size 7000 test:2
+ The log10 of determinant is :    8159.7807541944139     
+           1 Processors, Total Time used:    109.072998      seconds
+           1 Processors, Total Communication Time used:    7.00000022E-03  seconds
+           1 Processors, Data Distribution Time used:   0.172999993      seconds
+Input size 7000 test:3
+ The log10 of determinant is :    8159.7807541944139     
+           1 Processors, Total Time used:    109.369003      seconds
+           1 Processors, Total Communication Time used:    4.99999989E-03  seconds
+           1 Processors, Data Distribution Time used:   0.172000006      seconds
+Input size 7000 test:4
+ The log10 of determinant is :    8159.7807541944139     
+           1 Processors, Total Time used:    109.287003      seconds
+           1 Processors, Total Communication Time used:    9.99999978E-03  seconds
+           1 Processors, Data Distribution Time used:   0.172999993      seconds
+Input size 7000 test:5
+ The log10 of determinant is :    8159.7807541944139     
+           1 Processors, Total Time used:    109.280998      seconds
+           1 Processors, Total Communication Time used:    8.00000038E-03  seconds
+           1 Processors, Data Distribution Time used:   0.172999993      seconds
+Input size 8000 test:1
+ The log10 of determinant is :    9557.5302114642836     
+           1 Processors, Total Time used:    162.492004      seconds
+           1 Processors, Total Communication Time used:    8.00000038E-03  seconds
+           1 Processors, Data Distribution Time used:   0.224000007      seconds
+Input size 8000 test:2
+ The log10 of determinant is :    9557.5302114642836     
+           1 Processors, Total Time used:    163.026993      seconds
+           1 Processors, Total Communication Time used:    7.00000022E-03  seconds
+           1 Processors, Data Distribution Time used:   0.224000007      seconds
+Input size 8000 test:3
+ The log10 of determinant is :    9557.5302114642836     
+           1 Processors, Total Time used:    162.462006      seconds
+           1 Processors, Total Communication Time used:    7.00000022E-03  seconds
+           1 Processors, Data Distribution Time used:   0.224000007      seconds
+Input size 8000 test:4
+ The log10 of determinant is :    9557.5302114642836     
+           1 Processors, Total Time used:    162.817993      seconds
+           1 Processors, Total Communication Time used:    8.99999961E-03  seconds
+           1 Processors, Data Distribution Time used:   0.224000007      seconds
+Input size 8000 test:5
+ The log10 of determinant is :    9557.5302114642836     
+           1 Processors, Total Time used:    162.759003      seconds
+           1 Processors, Total Communication Time used:    1.00000005E-03  seconds
+           1 Processors, Data Distribution Time used:   0.224000007      seconds
